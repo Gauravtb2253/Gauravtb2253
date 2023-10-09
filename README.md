@@ -49,5 +49,4 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="100" height="100"/>
         </a>
     </p>
-
-    [![An image of @gauravtb2253's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravtb2253)](https://holopin.io/@gauravtb2253)
+[![An image of @gauravtb2253's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravtb2253)](https://holopin.io/@gauravtb2253)
