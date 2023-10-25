@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaurav Bomble</h1>
 <h3 align="center">A passionate Web Developer and Flutter Developer. I like to solve DSA problems.</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/gaurav-bomble-787287229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush waghulde" height="30" width="40" /></a>
+</p>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
