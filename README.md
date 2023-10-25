@@ -47,7 +47,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://iconarchive.com/download/i107223/google/noto-emoji-animals-nature/22215-bear.ico" alt="sql" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="sql" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social-logo.png" alt="bootstrap" width="40" height="40"/>
