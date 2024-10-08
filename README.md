@@ -2,6 +2,11 @@
 <h3 align="center">A passionate Web Developer and Flutter Developer. I like to solve DSA problems.</h3>
 
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gauravtb2253&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-bomble" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gauravtb2253" alt="gaurav-bomble" /></a> </p>
+
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gaurav-bomble-787287229/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gaurav Bomble" height="30" width="40" /></a>
