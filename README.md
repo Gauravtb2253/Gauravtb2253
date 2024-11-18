@@ -36,4 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gauravtb2253&show_icons=true&locale=en" alt="Gauravtb2253" /></p>
 
+![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/Gauravtb2253?year=2024Extd)
+
 [![An image of @gauravtb2253's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravtb2253)](https://holopin.io/@gauravtb2253)
