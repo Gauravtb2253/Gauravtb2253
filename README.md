@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Bomble</h1>
-<h3 align="center">A passionate Web Developer and Flutter Developer. I like to solve DSA problems.</h3>
+<h3 align="center">Hi, I’m Gaurav, a DevOps engineer with around 1 year of experience working with cloud platforms like Google Cloud Platform and Microsoft Azure. I use Terraform to manage infrastructure and build CI/CD pipelines that enable reliable and consistent deployments.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
